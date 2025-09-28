@@ -10,7 +10,7 @@ It features a functional user interface with basic arithmetic operations: additi
 - Clears input and resets automatically
 
 ## Screenshot
-[Calculator UI](Caluclator/ui.png)
+[Calculator UI](Calculator_ui.png)
 
 ## Built With
 - C++
